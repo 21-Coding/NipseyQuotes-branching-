@@ -6,7 +6,7 @@
 
 ### Description
 
-This application allows the user to give a statement to the console and have the console repeat the inputted value back to the user.
+This application allows the user to give an integer to the console and return a quote from the late Nipsey Hussle The Great!
 
 
 ### Setup/Installation Requirements
