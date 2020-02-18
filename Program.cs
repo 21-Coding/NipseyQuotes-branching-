@@ -7,6 +7,8 @@ namespace myApp
 
      static void Main(string[] args)
     {
+      Console.ForegroundColor = ConsoleColor.Blue;
+      Console.BackgroundColor = ConsoleColor.DarkGray;
       Console.WriteLine("Hello Nipsey Hussle Fan, to see your favorite quotes please type a number from 1 - 10!");
       string stringUserNumber = Console.ReadLine();
       int intUserNumber = int.Parse(stringUserNumber);
