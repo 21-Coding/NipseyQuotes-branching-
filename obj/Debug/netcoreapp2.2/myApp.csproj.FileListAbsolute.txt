@@ -20,3 +20,14 @@
 /Users/dominiqueyoumans/Desktop/Hello-World-.NET/obj/Debug/netcoreapp2.2/myApp.AssemblyInfo.cs
 /Users/dominiqueyoumans/Desktop/Hello-World-.NET/obj/Debug/netcoreapp2.2/myApp.dll
 /Users/dominiqueyoumans/Desktop/Hello-World-.NET/obj/Debug/netcoreapp2.2/myApp.pdb
+/Users/dominiqueyoumans/Desktop/NipseyQuotes-branching-/bin/Debug/netcoreapp2.2/myApp.deps.json
+/Users/dominiqueyoumans/Desktop/NipseyQuotes-branching-/bin/Debug/netcoreapp2.2/myApp.runtimeconfig.json
+/Users/dominiqueyoumans/Desktop/NipseyQuotes-branching-/bin/Debug/netcoreapp2.2/myApp.runtimeconfig.dev.json
+/Users/dominiqueyoumans/Desktop/NipseyQuotes-branching-/bin/Debug/netcoreapp2.2/myApp.dll
+/Users/dominiqueyoumans/Desktop/NipseyQuotes-branching-/bin/Debug/netcoreapp2.2/myApp.pdb
+/Users/dominiqueyoumans/Desktop/NipseyQuotes-branching-/obj/Debug/netcoreapp2.2/myApp.csprojAssemblyReference.cache
+/Users/dominiqueyoumans/Desktop/NipseyQuotes-branching-/obj/Debug/netcoreapp2.2/myApp.csproj.CoreCompileInputs.cache
+/Users/dominiqueyoumans/Desktop/NipseyQuotes-branching-/obj/Debug/netcoreapp2.2/myApp.AssemblyInfoInputs.cache
+/Users/dominiqueyoumans/Desktop/NipseyQuotes-branching-/obj/Debug/netcoreapp2.2/myApp.AssemblyInfo.cs
+/Users/dominiqueyoumans/Desktop/NipseyQuotes-branching-/obj/Debug/netcoreapp2.2/myApp.dll
+/Users/dominiqueyoumans/Desktop/NipseyQuotes-branching-/obj/Debug/netcoreapp2.2/myApp.pdb

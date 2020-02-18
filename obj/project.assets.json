@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/dominiqueyoumans/Desktop/Hello-World-.NET/myApp.csproj",
+      "projectUniqueName": "/Users/dominiqueyoumans/Desktop/NipseyQuotes-branching-/myApp.csproj",
       "projectName": "myApp",
-      "projectPath": "/Users/dominiqueyoumans/Desktop/Hello-World-.NET/myApp.csproj",
+      "projectPath": "/Users/dominiqueyoumans/Desktop/NipseyQuotes-branching-/myApp.csproj",
       "packagesPath": "/Users/dominiqueyoumans/.nuget/packages/",
-      "outputPath": "/Users/dominiqueyoumans/Desktop/Hello-World-.NET/obj/",
+      "outputPath": "/Users/dominiqueyoumans/Desktop/NipseyQuotes-branching-/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
