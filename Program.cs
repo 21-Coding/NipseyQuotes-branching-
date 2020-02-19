@@ -71,12 +71,6 @@ namespace myApp
         Console.BackgroundColor = ConsoleColor.Black;
         Console.WriteLine("It's possible to monetize your art without compromising the integrity of it for commerce.");
       }
-      else if (intUserNumber == 1)
-      {
-        Console.ForegroundColor = ConsoleColor.Blue;
-        Console.BackgroundColor = ConsoleColor.Black;
-        Console.WriteLine("It's possible to monetize your art without compromising the integrity of it for commerce.");
-      }
       else {
         Console.WriteLine("Invalid input, try the numbers 1-10.");
       }
